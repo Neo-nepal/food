@@ -4,7 +4,6 @@ include 'includes/wallet.php';
 if($_SESSION['customer_sid']==session_id()) {
 ?>
 <head>
- 
 </head>
 <body>
 <?php include 'header.php'; ?>
