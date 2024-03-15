@@ -3,7 +3,7 @@ include 'includes/connect.php';
 include 'includes/wallet.php'; 
 if($_SESSION['customer_sid']==session_id()) {
 ?>
-
+<h1>renew</h1>
 <html lang="en">
 
 <head>
