@@ -3,9 +3,7 @@ include 'includes/connect.php';
 include 'includes/wallet.php'; 
 if($_SESSION['customer_sid']==session_id()) {
 ?>
-hello
 <html lang="en">
-
 <head>
      <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
